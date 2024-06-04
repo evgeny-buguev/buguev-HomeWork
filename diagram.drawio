@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" modified="2024-06-04T09:27:05.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="VcfjqLN8eUuhS7rvo5US" version="24.4.13" type="device">
+  <diagram name="Страница — 1" id="p74GWSYYcX7zBrwPxBIz">
+    <mxGraphModel dx="1386" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GtIUF6wrL0J4PFI-9tK1-1" target="GtIUF6wrL0J4PFI-9tK1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-1" value="Начало" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GtIUF6wrL0J4PFI-9tK1-2" target="GtIUF6wrL0J4PFI-9tK1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-2" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt;Инициализация массива строк&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GtIUF6wrL0J4PFI-9tK1-4" target="GtIUF6wrL0J4PFI-9tK1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-4" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt;Инициализация пустого списка для результатов&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="265" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GtIUF6wrL0J4PFI-9tK1-5" target="GtIUF6wrL0J4PFI-9tK1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-5" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt;Цикл по элементам исходного массива &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtIUF6wrL0J4PFI-9tK1-6" target="GtIUF6wrL0J4PFI-9tK1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GtIUF6wrL0J4PFI-9tK1-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-6" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt;Проверка длины строки&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt; str.Length &amp;lt;= 3?&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="510" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtIUF6wrL0J4PFI-9tK1-7" target="GtIUF6wrL0J4PFI-9tK1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-7" value="Добавить строку в результирующий список" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="640" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtIUF6wrL0J4PFI-9tK1-8" target="GtIUF6wrL0J4PFI-9tK1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-8" value="Перейти к следующей строке" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="640" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GtIUF6wrL0J4PFI-9tK1-10" target="GtIUF6wrL0J4PFI-9tK1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-10" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt;Конец цикла&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="750" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GtIUF6wrL0J4PFI-9tK1-11" target="GtIUF6wrL0J4PFI-9tK1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-11" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt;Преобразование списка в&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt;  массив  &lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="830" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GtIUF6wrL0J4PFI-9tK1-12" target="GtIUF6wrL0J4PFI-9tK1-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-12" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(13, 13, 13);&quot;&gt;Вывод результирующего массива  &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="178" y="940" width="304" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GtIUF6wrL0J4PFI-9tK1-13" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
